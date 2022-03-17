@@ -17,31 +17,29 @@
     overflow: hidden;
     vertical-align: middle;
     padding: 1.5rem 1.5rem;
+
+    float: right;
 }
 
-.rightHeader a{
+.header a{
     font-family: Avenir;
     text-decoration: none;
     font-size: 16px;
     color: #808080;
 }
 
-.rightHeader a:hover{
+.header a:hover{
     color: red;
 }
 
-.rightHeader a:active{
+.header a:active{
     color: aqua;
 }
 
 .leftHeader{
     display: inline-block;
     vertical-align: middle;
-}
-.rightHeader{
-    display: inline-block;
-    vertical-align: middle;
-    margin-left: 60%;
+
 }
 
 .image1{
