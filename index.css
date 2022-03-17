@@ -41,5 +41,6 @@
 
 .image1{
     height: 400px;
+    width: 100%;
     background-image: url(/src/images/simpleLogo.png);
 }
