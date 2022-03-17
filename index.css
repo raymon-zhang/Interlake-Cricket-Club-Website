@@ -38,3 +38,8 @@
     vertical-align: middle;
     margin-left: 60%;
 }
+
+.image1{
+    height: 400px;
+    background-image: url(/src/images/simpleLogo.png);
+}
