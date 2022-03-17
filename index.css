@@ -1,10 +1,15 @@
+@font-face {
+    font-family: Avenir;
+    src: url(/src/fonts/avenir.otf);
+  }
+
 .header{
     height: 89px;
     background-color: #ffffff;
-    vertical-align: middle;
     overflow: hidden;
 }
 
 .header a{
-    font-family: "Avenir";
+    vertical-align: middle;
+    font-family: Avenir;
 }
