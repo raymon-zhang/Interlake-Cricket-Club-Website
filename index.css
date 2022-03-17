@@ -8,8 +8,7 @@
     background-color: #ffffff;
     overflow: hidden;
     vertical-align: middle;
-    border: black;
-    border-width: 1px 1px 1px 1px;
+    border: 1px solid black;
 }
 
 .header a{
