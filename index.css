@@ -1,4 +1,10 @@
-#header{
+.header{
     height: 89px;
-    color: bisque;
+    background-color: #ffffff;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+.header a{
+    font-family: "Avenir";
 }
