@@ -25,6 +25,10 @@
     color: red;
 }
 
+.header a:active{
+    color: aqua;
+}
+
 .leftHeader{
     display: inline-block;
     vertical-align: middle;
