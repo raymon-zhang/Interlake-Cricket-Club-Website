@@ -3,8 +3,17 @@
     src: url(/src/fonts/avenir.otf);
   }
 
+
+  html, body {
+      margin: 0;
+  }
+
+  *  {
+      box-sizing: border-box;
+  }
+
 .header{
-    width: 100%;
+    width: 100vw;
     height: 89px;
     background-color: #ffffff;
     box-shadow: 0px 5px 10px #00000033;
