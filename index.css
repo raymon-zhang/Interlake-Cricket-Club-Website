@@ -18,6 +18,10 @@ html, body {
     box-sizing: border-box;
 }
 
+table{
+    border: 0;
+}
+
 .header{
     width: 100vw;
     height: 89px;
