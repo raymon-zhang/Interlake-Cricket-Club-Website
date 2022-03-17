@@ -4,7 +4,8 @@
   }
 
 .header{
-    width: ;
+    margin: 0 auto;
+    width: 1150px;
     height: 89px;
     background-color: #ffffff;
     overflow: hidden;
