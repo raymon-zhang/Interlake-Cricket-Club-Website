@@ -96,6 +96,7 @@ table{
 .schedule th{
     font-family: Anton;
     font-size: 30px;
+    border-bottom: 2px solid black;
 }
 
 .schedule td{
