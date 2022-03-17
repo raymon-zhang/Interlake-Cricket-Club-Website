@@ -22,6 +22,10 @@ table{
     border: 0px;
 }
 
+th{
+    background-color: white;
+}
+
 .header{
     width: 100vw;
     height: 89px;
