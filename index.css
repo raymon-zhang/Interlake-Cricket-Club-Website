@@ -44,7 +44,7 @@
 
 .image1{
     padding-top: 30px;
-    height: 400px;
-    width: 100%;
+
+    background-size: contain;
     background-image: url(/src/images/simpleLogo.png);
 }
