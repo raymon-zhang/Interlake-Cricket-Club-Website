@@ -88,6 +88,11 @@ html, body {
     margin: auto;
 }
 
+.schedule th{
+    font-family: Anton;
+    font-size: 70px;
+}
+
 .schedule td{
     text-align: center;
 }
