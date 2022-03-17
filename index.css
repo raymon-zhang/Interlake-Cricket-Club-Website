@@ -3,6 +3,11 @@
     src: url(/src/fonts/avenir.otf);
   }
 
+.headerBox{
+    width: 100%;
+    height: 89px;
+}
+
 .header{
     margin: 0 auto;
     width: 1150px;
