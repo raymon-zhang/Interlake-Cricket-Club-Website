@@ -32,7 +32,7 @@
     color: red;
 }
 
-.header a:active{
+.header a.active{
     color: aqua;
 }
 
