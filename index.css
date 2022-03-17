@@ -86,3 +86,7 @@ html, body {
 .schedule{
     text-align: center;
 }
+
+.schedule td{
+    text-align: center;
+}
