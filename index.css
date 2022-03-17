@@ -4,10 +4,12 @@
   }
 
 .header{
+    width: ;
     height: 89px;
     background-color: #ffffff;
     overflow: hidden;
     vertical-align: middle;
+    padding: 14px 16px;
     border: 1px solid black;
 }
 
