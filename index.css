@@ -55,5 +55,6 @@
     background-size: contain;
     background-image: url(/src/images/simpleLogo.png);
     background-repeat: no-repeat;
-    text-align: center;
+    background-position: center;
+
 }
