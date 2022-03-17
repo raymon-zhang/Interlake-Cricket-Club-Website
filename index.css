@@ -47,6 +47,7 @@
     width: 100%;
 
     padding-top: 30px;
+    vertical-align: middle;
 
     background-size: contain;
     background-image: url(/src/images/simpleLogo.png);
