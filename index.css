@@ -19,12 +19,9 @@ html, body {
 }
 
 table{
-    border: 0px;
+    background-color: rgb(182, 172, 172);
 }
 
-th{
-    background-color: white;
-}
 
 .header{
     width: 100vw;
