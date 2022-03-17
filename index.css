@@ -39,7 +39,7 @@
 .leftHeader{
     display: inline-block;
     vertical-align: middle;
-
+    float: left;
 }
 
 .image1{
