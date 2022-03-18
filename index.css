@@ -56,6 +56,9 @@ table{
 }
 
 .leftHeader{
+    color: black;
+    gap: 10px;
+    font-size: 25px;
 }
 
 .image1{
