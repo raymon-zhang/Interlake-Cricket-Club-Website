@@ -35,6 +35,11 @@ table{
     justify-content: space-between;
 }
 
+.header .leftHeader {
+    display: flex;
+    align-items: center;
+}
+
 .header .navLinks {
     display: flex;
     gap: 10px;
