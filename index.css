@@ -56,11 +56,13 @@ table{
 }
 
 .leftHeader{
-    display: flex;
     color: black;
     gap: 10px;
     font-size: 25px;
-    align-items: center;
+}
+
+.headerTitle{
+    text-align: center;
 }
 
 .image1{
