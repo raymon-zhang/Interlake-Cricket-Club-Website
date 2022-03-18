@@ -59,6 +59,7 @@ table{
     color: black;
     gap: 10px;
     font-size: 25px;
+    vertical-align: middle;
 }
 
 .image1{
